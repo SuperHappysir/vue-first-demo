@@ -13,6 +13,7 @@ function install(Vue, opts = {}) {
 if (window.Vue) {
     install(window.Vue);
 }
+
 export default {
   install,
   CTable
