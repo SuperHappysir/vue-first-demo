@@ -1,4 +1,5 @@
 import CTable from './c-table/';
+
 const components = [
   CTable
 ];
@@ -13,5 +14,6 @@ if (window.Vue) {
     install(window.Vue);
 }
 export default {
+  install,
   CTable
 };

@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'ElBadge',
+  name: 'CTable',
 
   data() {
       return {

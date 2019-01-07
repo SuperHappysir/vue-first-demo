@@ -36,8 +36,8 @@
   "private": false,
   "协议": "",
   "license": "MIT",
-  "main: dist/build.js 配置意思是，别人用这个包 import xxxx from 'xxxx'; 时，引入的文件。": "",
-  "main": "dist/build.js",
+  "main: lib/build.js 配置意思是，别人用这个包 import xxxx from 'xxxx'; 时，引入的文件。": "",
+  "main": "lib/build.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/SuperHappysir/vue-first-demo.git"
